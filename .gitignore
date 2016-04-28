@@ -19,8 +19,9 @@ $RECYCLE.BIN/
 
 # Visual Studio intermediate files
 *.sdf
-.Debug
-.ipch
+*.opensdf
+Debug/
+ipch/
 
 # =========================
 # Operating System Files

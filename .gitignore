@@ -17,6 +17,11 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# Visual Studio intermediate files
+*.sdf
+.Debug
+.ipch
+
 # =========================
 # Operating System Files
 # =========================

@@ -54,4 +54,5 @@ public:
 	int firstUniqChar(string s);
 	int lastRemaining(int n);
 	bool isRectangleCover(vector<vector<int>>& rectangles);
+	bool isSubsequence(string s, string t);
 };

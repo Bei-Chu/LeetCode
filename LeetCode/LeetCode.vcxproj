@@ -95,6 +95,7 @@
     <ClCompile Include="Elimination Game.cpp" />
     <ClCompile Include="Excel Sheet Column Number.cpp" />
     <ClCompile Include="First Unique Character in a String.cpp" />
+    <ClCompile Include="Is Subsequence.cpp" />
     <ClCompile Include="Jump Game.cpp" />
     <ClCompile Include="LeetCode.cpp" />
     <ClCompile Include="Lexicographical Numbers.cpp" />

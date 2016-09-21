@@ -6,6 +6,7 @@
 #include <deque>
 #include <utility>
 #include <list>
+#include <unordered_set>
 
 using namespace std;
 
@@ -52,4 +53,5 @@ public:
 	vector<int> lexicalOrder(int n);
 	int firstUniqChar(string s);
 	int lastRemaining(int n);
+	bool isRectangleCover(vector<vector<int>>& rectangles);
 };

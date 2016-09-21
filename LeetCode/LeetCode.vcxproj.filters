@@ -116,5 +116,8 @@
     <ClCompile Include="Elimination Game.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="Perfect Rectangle.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

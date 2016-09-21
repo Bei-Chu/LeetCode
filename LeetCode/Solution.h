@@ -47,5 +47,6 @@ public:
 	void rotate(vector<int>& nums, int k);
 	vector<vector<string>> solveNQueens(int n);
 	void deleteNode(ListNode* node);
+	ListNode* partition(ListNode* head, int x);
 	vector<int> lexicalOrder(int n);
 };

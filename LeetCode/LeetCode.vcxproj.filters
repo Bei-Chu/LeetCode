@@ -113,5 +113,8 @@
     <ClCompile Include="First Unique Character in a String.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="Elimination Game.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

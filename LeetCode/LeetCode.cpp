@@ -8,7 +8,7 @@
 int _tmain(int argc, _TCHAR* argv[])
 {
 	Solution s;
-	auto ret = s.firstUniqChar("loveleetcode");
+	auto ret = s.lastRemaining(100000000);
 	return 0;
 }
 

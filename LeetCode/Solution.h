@@ -5,6 +5,7 @@
 #include <queue>
 #include <deque>
 #include <utility>
+#include <list>
 
 using namespace std;
 
@@ -50,4 +51,5 @@ public:
 	ListNode* partition(ListNode* head, int x);
 	vector<int> lexicalOrder(int n);
 	int firstUniqChar(string s);
+	int lastRemaining(int n);
 };

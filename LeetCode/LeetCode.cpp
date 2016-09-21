@@ -8,7 +8,7 @@
 int _tmain(int argc, _TCHAR* argv[])
 {
 	Solution s;
-	auto ret = s.lexicalOrder(245);
+	auto ret = s.firstUniqChar("loveleetcode");
 	return 0;
 }
 

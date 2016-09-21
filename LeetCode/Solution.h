@@ -49,4 +49,5 @@ public:
 	void deleteNode(ListNode* node);
 	ListNode* partition(ListNode* head, int x);
 	vector<int> lexicalOrder(int n);
+	int firstUniqChar(string s);
 };

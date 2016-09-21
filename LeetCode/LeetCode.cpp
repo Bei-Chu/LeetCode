@@ -8,8 +8,7 @@
 int _tmain(int argc, _TCHAR* argv[])
 {
 	Solution s;
-	string str = "(1+(4+5+2)-3)+(6+8)";
-	auto ret = s.solveNQueens(4);
+	auto ret = s.lexicalOrder(245);
 	return 0;
 }
 

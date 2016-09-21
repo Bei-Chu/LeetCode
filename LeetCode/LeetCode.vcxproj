@@ -95,6 +95,7 @@
     <ClCompile Include="Excel Sheet Column Number.cpp" />
     <ClCompile Include="Jump Game.cpp" />
     <ClCompile Include="LeetCode.cpp" />
+    <ClCompile Include="Lexicographical Numbers.cpp" />
     <ClCompile Include="Longest Substring Without Repeating Characters.cpp" />
     <ClCompile Include="Maximal Square.cpp" />
     <ClCompile Include="Maximum Product Subarray.cpp" />

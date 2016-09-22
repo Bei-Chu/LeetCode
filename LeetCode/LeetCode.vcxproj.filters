@@ -122,5 +122,8 @@
     <ClCompile Include="Is Subsequence.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="UTF-8 Validation.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

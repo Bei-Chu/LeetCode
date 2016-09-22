@@ -7,7 +7,6 @@
 
 int _tmain(int argc, _TCHAR* argv[])
 {
-	Solution s;
-	auto ret = s.isRectangleCover(vector<vector<int>>());
+
 	return 0;
 }

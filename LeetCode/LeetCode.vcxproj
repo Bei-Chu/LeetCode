@@ -117,6 +117,7 @@
     </ClCompile>
     <ClCompile Include="String to Integer (atoi) .cpp" />
     <ClCompile Include="Text Justification.cpp" />
+    <ClCompile Include="UTF-8 Validation.cpp" />
     <ClCompile Include="ZigZag Conversion.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

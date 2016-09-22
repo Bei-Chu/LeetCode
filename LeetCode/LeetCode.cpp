@@ -7,6 +7,7 @@
 
 int _tmain(int argc, _TCHAR* argv[])
 {
-
+	Solution s;
+	auto ret = s.decodeString("3[a2[c]]");
 	return 0;
 }

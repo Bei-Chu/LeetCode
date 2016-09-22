@@ -125,5 +125,8 @@
     <ClCompile Include="UTF-8 Validation.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="Decode String.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

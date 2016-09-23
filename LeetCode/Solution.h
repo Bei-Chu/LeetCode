@@ -7,6 +7,7 @@
 #include <utility>
 #include <list>
 #include <unordered_set>
+#include <unordered_map>
 
 using namespace std;
 
@@ -58,4 +59,7 @@ public:
 	bool validUtf8(vector<int>& data);
 	string decodeString(string s);
 	int longestSubstring(string s, int k);
+	int maxRotateFunction(vector<int>& A);
+	int integerReplacement(int n);
+	vector<double> calcEquation(vector<pair<string, string>> equations, vector<double>& values, vector<pair<string, string>> queries);
 };

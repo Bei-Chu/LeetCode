@@ -94,8 +94,10 @@
     <ClCompile Include="Delete Node in a Linked List.cpp" />
     <ClCompile Include="Divide Two Integers.cpp" />
     <ClCompile Include="Elimination Game.cpp" />
+    <ClCompile Include="Evaluate Division.cpp" />
     <ClCompile Include="Excel Sheet Column Number.cpp" />
     <ClCompile Include="First Unique Character in a String.cpp" />
+    <ClCompile Include="Integer Replacement.cpp" />
     <ClCompile Include="Is Subsequence.cpp" />
     <ClCompile Include="Jump Game.cpp" />
     <ClCompile Include="LeetCode.cpp" />
@@ -108,9 +110,11 @@
     <ClCompile Include="Palindrome Number.cpp" />
     <ClCompile Include="Partition List.cpp" />
     <ClCompile Include="Perfect Rectangle.cpp" />
+    <ClCompile Include="Random Pick Index.cpp" />
     <ClCompile Include="Regular Expression Matching.cpp" />
     <ClCompile Include="Reverse Integer.cpp" />
     <ClCompile Include="Rotate Array.cpp" />
+    <ClCompile Include="Rotate Function.cpp" />
     <ClCompile Include="Search a 2D Matrix II.cpp" />
     <ClCompile Include="Single Number III.cpp" />
     <ClCompile Include="stdafx.cpp">

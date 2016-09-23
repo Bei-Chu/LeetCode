@@ -3,11 +3,10 @@
 
 #include "stdafx.h"
 #include "Solution.h"
-#include "Find Median from Data Stream.cpp"
 
 int _tmain(int argc, _TCHAR* argv[])
 {
 	Solution s;
-	auto ret = s.decodeString("3[a2[c]]");
+	auto ret = s.longestSubstring("bbaaacbd", 3);
 	return 0;
 }

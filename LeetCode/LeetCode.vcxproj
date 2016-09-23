@@ -100,6 +100,7 @@
     <ClCompile Include="Jump Game.cpp" />
     <ClCompile Include="LeetCode.cpp" />
     <ClCompile Include="Lexicographical Numbers.cpp" />
+    <ClCompile Include="Longest Substring with At Least K Repeating Characters.cpp" />
     <ClCompile Include="Longest Substring Without Repeating Characters.cpp" />
     <ClCompile Include="Maximal Square.cpp" />
     <ClCompile Include="Maximum Product Subarray.cpp" />

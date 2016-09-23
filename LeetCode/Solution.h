@@ -57,4 +57,5 @@ public:
 	bool isSubsequence(string s, string t);
 	bool validUtf8(vector<int>& data);
 	string decodeString(string s);
+	int longestSubstring(string s, int k);
 };

@@ -128,5 +128,8 @@
     <ClCompile Include="Decode String.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="Longest Substring with At Least K Repeating Characters.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

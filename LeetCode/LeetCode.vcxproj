@@ -88,6 +88,7 @@
     <ClCompile Include="Add Two Numbers.cpp" />
     <ClCompile Include="Basic Calculator.cpp" />
     <ClCompile Include="Binary Tree Level Order Traversal.cpp" />
+    <ClCompile Include="Binary Watch.cpp" />
     <ClCompile Include="Course Schedule II.cpp" />
     <ClCompile Include="Decode String.cpp" />
     <ClCompile Include="Decode Ways.cpp" />
@@ -97,6 +98,7 @@
     <ClCompile Include="Evaluate Division.cpp" />
     <ClCompile Include="Excel Sheet Column Number.cpp" />
     <ClCompile Include="First Unique Character in a String.cpp" />
+    <ClCompile Include="Frog Jump.cpp" />
     <ClCompile Include="Integer Replacement.cpp" />
     <ClCompile Include="Is Subsequence.cpp" />
     <ClCompile Include="Jump Game.cpp" />
@@ -107,11 +109,13 @@
     <ClCompile Include="Maximal Square.cpp" />
     <ClCompile Include="Maximum Product Subarray.cpp" />
     <ClCompile Include="N-Queens.cpp" />
+    <ClCompile Include="Nth Digit.cpp" />
     <ClCompile Include="Palindrome Number.cpp" />
     <ClCompile Include="Partition List.cpp" />
     <ClCompile Include="Perfect Rectangle.cpp" />
     <ClCompile Include="Random Pick Index.cpp" />
     <ClCompile Include="Regular Expression Matching.cpp" />
+    <ClCompile Include="Remove K Digits.cpp" />
     <ClCompile Include="Reverse Integer.cpp" />
     <ClCompile Include="Rotate Array.cpp" />
     <ClCompile Include="Rotate Function.cpp" />

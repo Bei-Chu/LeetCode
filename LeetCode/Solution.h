@@ -62,4 +62,8 @@ public:
 	int maxRotateFunction(vector<int>& A);
 	int integerReplacement(int n);
 	vector<double> calcEquation(vector<pair<string, string>> equations, vector<double>& values, vector<pair<string, string>> queries);
+	int findNthDigit(int n);
+	vector<string> readBinaryWatch(int num);
+	string removeKdigits(string num, int k);
+	bool canCross(vector<int>& stones);
 };

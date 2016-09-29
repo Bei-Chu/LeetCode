@@ -143,5 +143,17 @@
     <ClCompile Include="Evaluate Division.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="Nth Digit.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Binary Watch.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Remove K Digits.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Frog Jump.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

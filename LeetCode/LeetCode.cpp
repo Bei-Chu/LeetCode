@@ -8,6 +8,6 @@
 int _tmain(int argc, _TCHAR* argv[])
 {
 	Solution s;
-	auto ret = s.calcEquation(vector<pair<string, string>>(), vector<double>(), vector<pair<string, string>>());
+	auto ret = s.canCross(vector<int>({ 0,1,3,6,10,15,16,21 }));
 	return 0;
 }

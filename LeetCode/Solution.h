@@ -66,4 +66,8 @@ public:
 	vector<string> readBinaryWatch(int num);
 	string removeKdigits(string num, int k);
 	bool canCross(vector<int>& stones);
+	int sumOfLeftLeaves(TreeNode* root);
+	string toHex(int num);
+	vector<pair<int, int>> reconstructQueue(vector<pair<int, int>>& people);
+	int trapRainWater(vector<vector<int>>& heightMap);
 };

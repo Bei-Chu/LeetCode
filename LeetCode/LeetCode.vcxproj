@@ -89,6 +89,7 @@
     <ClCompile Include="Basic Calculator.cpp" />
     <ClCompile Include="Binary Tree Level Order Traversal.cpp" />
     <ClCompile Include="Binary Watch.cpp" />
+    <ClCompile Include="Convert a Number to Hexadecimal.cpp" />
     <ClCompile Include="Course Schedule II.cpp" />
     <ClCompile Include="Decode String.cpp" />
     <ClCompile Include="Decode Ways.cpp" />
@@ -113,6 +114,7 @@
     <ClCompile Include="Palindrome Number.cpp" />
     <ClCompile Include="Partition List.cpp" />
     <ClCompile Include="Perfect Rectangle.cpp" />
+    <ClCompile Include="Queue Reconstruction by Height.cpp" />
     <ClCompile Include="Random Pick Index.cpp" />
     <ClCompile Include="Regular Expression Matching.cpp" />
     <ClCompile Include="Remove K Digits.cpp" />
@@ -126,7 +128,9 @@
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Create</PrecompiledHeader>
     </ClCompile>
     <ClCompile Include="String to Integer (atoi) .cpp" />
+    <ClCompile Include="Sum of Left Leaves.cpp" />
     <ClCompile Include="Text Justification.cpp" />
+    <ClCompile Include="Trapping Rain Water II.cpp" />
     <ClCompile Include="UTF-8 Validation.cpp" />
     <ClCompile Include="ZigZag Conversion.cpp" />
   </ItemGroup>

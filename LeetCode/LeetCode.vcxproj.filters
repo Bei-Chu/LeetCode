@@ -155,5 +155,17 @@
     <ClCompile Include="Frog Jump.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="Sum of Left Leaves.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Convert a Number to Hexadecimal.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Queue Reconstruction by Height.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Trapping Rain Water II.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

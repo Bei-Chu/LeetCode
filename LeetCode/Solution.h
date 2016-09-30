@@ -8,6 +8,7 @@
 #include <list>
 #include <unordered_set>
 #include <unordered_map>
+#include <map>
 
 using namespace std;
 
@@ -70,4 +71,5 @@ public:
 	string toHex(int num);
 	vector<pair<int, int>> reconstructQueue(vector<pair<int, int>>& people);
 	int trapRainWater(vector<vector<int>>& heightMap);
+	vector<vector<int>> palindromePairs(vector<string>& words);
 };

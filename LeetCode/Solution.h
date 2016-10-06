@@ -5,6 +5,10 @@
 #include <queue>
 #include <deque>
 #include <utility>
+#include <list>
+#include <unordered_set>
+#include <unordered_map>
+#include <map>
 
 using namespace std;
 
@@ -48,4 +52,24 @@ public:
 	vector<vector<string>> solveNQueens(int n);
 	void deleteNode(ListNode* node);
 	ListNode* partition(ListNode* head, int x);
+	vector<int> lexicalOrder(int n);
+	int firstUniqChar(string s);
+	int lastRemaining(int n);
+	bool isRectangleCover(vector<vector<int>>& rectangles);
+	bool isSubsequence(string s, string t);
+	bool validUtf8(vector<int>& data);
+	string decodeString(string s);
+	int longestSubstring(string s, int k);
+	int maxRotateFunction(vector<int>& A);
+	int integerReplacement(int n);
+	vector<double> calcEquation(vector<pair<string, string>> equations, vector<double>& values, vector<pair<string, string>> queries);
+	int findNthDigit(int n);
+	vector<string> readBinaryWatch(int num);
+	string removeKdigits(string num, int k);
+	bool canCross(vector<int>& stones);
+	int sumOfLeftLeaves(TreeNode* root);
+	string toHex(int num);
+	vector<pair<int, int>> reconstructQueue(vector<pair<int, int>>& people);
+	int trapRainWater(vector<vector<int>>& heightMap);
+	vector<vector<int>> palindromePairs(vector<string>& words);
 };

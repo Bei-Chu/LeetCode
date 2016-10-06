@@ -88,22 +88,40 @@
     <ClCompile Include="Add Two Numbers.cpp" />
     <ClCompile Include="Basic Calculator.cpp" />
     <ClCompile Include="Binary Tree Level Order Traversal.cpp" />
+    <ClCompile Include="Binary Watch.cpp" />
+    <ClCompile Include="Convert a Number to Hexadecimal.cpp" />
     <ClCompile Include="Course Schedule II.cpp" />
+    <ClCompile Include="Decode String.cpp" />
     <ClCompile Include="Decode Ways.cpp" />
     <ClCompile Include="Delete Node in a Linked List.cpp" />
     <ClCompile Include="Divide Two Integers.cpp" />
+    <ClCompile Include="Elimination Game.cpp" />
+    <ClCompile Include="Evaluate Division.cpp" />
     <ClCompile Include="Excel Sheet Column Number.cpp" />
+    <ClCompile Include="First Unique Character in a String.cpp" />
+    <ClCompile Include="Frog Jump.cpp" />
+    <ClCompile Include="Integer Replacement.cpp" />
+    <ClCompile Include="Is Subsequence.cpp" />
     <ClCompile Include="Jump Game.cpp" />
     <ClCompile Include="LeetCode.cpp" />
+    <ClCompile Include="Lexicographical Numbers.cpp" />
+    <ClCompile Include="Longest Substring with At Least K Repeating Characters.cpp" />
     <ClCompile Include="Longest Substring Without Repeating Characters.cpp" />
     <ClCompile Include="Maximal Square.cpp" />
     <ClCompile Include="Maximum Product Subarray.cpp" />
     <ClCompile Include="N-Queens.cpp" />
+    <ClCompile Include="Nth Digit.cpp" />
     <ClCompile Include="Palindrome Number.cpp" />
+    <ClCompile Include="Palindrome Pairs.cpp" />
     <ClCompile Include="Partition List.cpp" />
+    <ClCompile Include="Perfect Rectangle.cpp" />
+    <ClCompile Include="Queue Reconstruction by Height.cpp" />
+    <ClCompile Include="Random Pick Index.cpp" />
     <ClCompile Include="Regular Expression Matching.cpp" />
+    <ClCompile Include="Remove K Digits.cpp" />
     <ClCompile Include="Reverse Integer.cpp" />
     <ClCompile Include="Rotate Array.cpp" />
+    <ClCompile Include="Rotate Function.cpp" />
     <ClCompile Include="Search a 2D Matrix II.cpp" />
     <ClCompile Include="Single Number III.cpp" />
     <ClCompile Include="stdafx.cpp">
@@ -111,7 +129,10 @@
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Create</PrecompiledHeader>
     </ClCompile>
     <ClCompile Include="String to Integer (atoi) .cpp" />
+    <ClCompile Include="Sum of Left Leaves.cpp" />
     <ClCompile Include="Text Justification.cpp" />
+    <ClCompile Include="Trapping Rain Water II.cpp" />
+    <ClCompile Include="UTF-8 Validation.cpp" />
     <ClCompile Include="ZigZag Conversion.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

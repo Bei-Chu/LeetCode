@@ -100,6 +100,7 @@
     <ClCompile Include="Maximum Product Subarray.cpp" />
     <ClCompile Include="N-Queens.cpp" />
     <ClCompile Include="Palindrome Number.cpp" />
+    <ClCompile Include="Partition List.cpp" />
     <ClCompile Include="Regular Expression Matching.cpp" />
     <ClCompile Include="Reverse Integer.cpp" />
     <ClCompile Include="Rotate Array.cpp" />

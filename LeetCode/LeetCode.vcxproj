@@ -85,6 +85,7 @@
     <ClInclude Include="targetver.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="Add Strings.cpp" />
     <ClCompile Include="Add Two Numbers.cpp" />
     <ClCompile Include="Basic Calculator.cpp" />
     <ClCompile Include="Binary Tree Level Order Traversal.cpp" />
@@ -111,18 +112,22 @@
     <ClCompile Include="Maximum Product Subarray.cpp" />
     <ClCompile Include="N-Queens.cpp" />
     <ClCompile Include="Nth Digit.cpp" />
+    <ClCompile Include="Pacific Atlantic Water Flow.cpp" />
     <ClCompile Include="Palindrome Number.cpp" />
     <ClCompile Include="Palindrome Pairs.cpp" />
+    <ClCompile Include="Partition Equal Subset Sum.cpp" />
     <ClCompile Include="Partition List.cpp" />
     <ClCompile Include="Perfect Rectangle.cpp" />
     <ClCompile Include="Queue Reconstruction by Height.cpp" />
     <ClCompile Include="Random Pick Index.cpp" />
     <ClCompile Include="Regular Expression Matching.cpp" />
     <ClCompile Include="Remove K Digits.cpp" />
+    <ClCompile Include="Reorder List.cpp" />
     <ClCompile Include="Reverse Integer.cpp" />
     <ClCompile Include="Rotate Array.cpp" />
     <ClCompile Include="Rotate Function.cpp" />
     <ClCompile Include="Search a 2D Matrix II.cpp" />
+    <ClCompile Include="Sentence Screen Fitting.cpp" />
     <ClCompile Include="Single Number III.cpp" />
     <ClCompile Include="stdafx.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>

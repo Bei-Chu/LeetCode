@@ -72,4 +72,9 @@ public:
 	vector<pair<int, int>> reconstructQueue(vector<pair<int, int>>& people);
 	int trapRainWater(vector<vector<int>>& heightMap);
 	vector<vector<int>> palindromePairs(vector<string>& words);
+	void reorderList(ListNode* head);
+	string addStrings(string num1, string num2);
+	bool canPartition(vector<int>& nums);
+	vector<pair<int, int>> pacificAtlantic(vector<vector<int>>& matrix);
+	int wordsTyping(vector<string>& sentence, int rows, int cols);
 };

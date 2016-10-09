@@ -170,5 +170,20 @@
     <ClCompile Include="Palindrome Pairs.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="Reorder List.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Add Strings.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Partition Equal Subset Sum.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Pacific Atlantic Water Flow.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Sentence Screen Fitting.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
